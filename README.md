@@ -1,5 +1,4 @@
-# pneumonoultramicroscopicsilicovolcanoconiosis
-SfHacks2019!
+# Spot Stop
+## Click here for the website:
 
---
-Main JavaScript files in dist > google_api > src
+http://onespotstop.com/
